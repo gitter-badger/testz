@@ -2,6 +2,8 @@
 
 # testz
 
+[![Join the chat at https://gitter.im/scalaz/testz](https://badges.gitter.im/scalaz/testz.svg)](https://gitter.im/scalaz/testz?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The pure testing library.
 
 [![Join the chat at https://gitter.im/scalaz/testz](https://badges.gitter.im/scalaz/testz.svg)](https://gitter.im/scalaz/testz?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
